@@ -1,0 +1,6 @@
+java -jar jasperstarter.jar process report.jasper \
+-t jdbc \
+--jdbc-driver sqlite-jdbc.jar \
+--jdbc-class org.sqlite.JDBC \
+-u jdbc:sqlite:db/silownia.db \
+-f pdf
