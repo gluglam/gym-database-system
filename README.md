@@ -107,6 +107,7 @@ From a repository perspective, this project is not only a database assignment bu
     - [Purchases and payments window](#purchases-and-payments-window)
     - [SQL reports](#sql-reports)
     - [Jasper reports](#jasper-reports)
+  - [Future Improvments](#future-improvments)
 
 ## Technology stack
 
@@ -861,3 +862,9 @@ Examples of report output generated from SQL queries:
 ![Jasper reports window](images/image16.png)
 ![Jasper report preview](images/image17.png)
 
+
+## Future Improvments
+
+- [ ] Repair generating reports
+- [ ] Update UI
+- [ ] Upgrade app functionality
