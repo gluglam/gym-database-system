@@ -865,6 +865,6 @@ Examples of report output generated from SQL queries:
 
 ## Future Improvments
 
-- [ ] Repair generating reports
+- [ ] Generating reports
 - [ ] Update UI
 - [ ] Upgrade app functionality
